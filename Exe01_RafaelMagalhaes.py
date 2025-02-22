@@ -24,3 +24,6 @@ except:
 
 
     print("O indice de {} é: {}".format(resposta,i))
+
+print("Rafael de Almeida de Magalhaes")   
+print("Encerrando o Programa...")
