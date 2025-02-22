@@ -21,7 +21,7 @@ produtosTupla = tuple(produtosLista)
 
 print("Produtos: ",produtosTupla)
 
-indiceTupla = (input("Digite um número de 0 á 9: "))
+indiceTupla = int (input("Digite um número de 0 á 9: "))
 
 try:
     print("Produto:{}".format(produtosTupla(indiceTupla)))
